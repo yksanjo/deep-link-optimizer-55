@@ -1,5 +1,12 @@
 # deep-link-optimizer-55
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/deep-link-optimizer-55/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/deep-link-optimizer-55/actions)
+![License](https://img.shields.io/github/license/yksanjo/deep-link-optimizer-55)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/deep-link-optimizer-55)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/deep-link-optimizer-55)
+
 ## Detailed Description
 
 deep-link-optimizer-55 is maintained as an industry-grade software project with production-ready engineering practices.  
